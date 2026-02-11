@@ -1,0 +1,21 @@
+{
+  "name": "Notifications",
+  "short_name": "Notify",
+  "description": "Never miss a message from your favorite creators.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F7F9",
+  "theme_color": "#00AFF0",
+  "icons": [
+    {
+      "src": "/icon-192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
